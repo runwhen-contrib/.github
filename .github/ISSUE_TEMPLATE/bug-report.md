@@ -1,13 +1,13 @@
 ---
-name: Enhancement Suggestion
-about: Provide an enhancement suggestion
+name: Bug Report
+about: 'Bug Report'
 title: ""
-labels: enhancement
+labels: bug
 assignees: ''
 
 ---
 
-<!--- Provide a general summary of the issue in the Title above and add an SLI, SLO, or TaskSet label if either context applies-->
+<!--- Provide a general summary of the issue in the Title above and add an SLI, SLO, or TaskSet label-->
 
 ## Expected Behavior
 <!--- Tell us what should happen -->
@@ -17,6 +17,14 @@ assignees: ''
 
 ## Possible Solution
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
+
+## Steps to Reproduce
+<!--- Provide a link to a live example, or an unambiguous set of steps to -->
+<!--- reproduce this bug. Include code to reproduce, if relevant -->
+1.
+2.
+3.
+4.
 
 ## Context (Environment)
 <!--- How has this issue affected you? What are you trying to accomplish? -->
